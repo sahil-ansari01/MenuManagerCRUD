@@ -5,7 +5,7 @@
 
 ## Overview
 
-This is a simple Menu Manager web application built using JavaScript for the front end and CRUD (Create, Read, Update, Delete) operations for the backend. The app allows users to manage their menu items efficiently.
+This is a simple Menu Manager web application built using JavaScript for the front end and CRUD (Create, Read, Update, Delete) operations for the backend. The app allows waiters to manage their menu items efficiently.
 
 ## Features
 
