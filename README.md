@@ -1,7 +1,7 @@
 # Menu Manager App with CRUD Operations
 
 ## Live link
-
+https://menu-manager-crud.vercel.app/
 
 ## Overview
 
