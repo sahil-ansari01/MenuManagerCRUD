@@ -1,0 +1,88 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.inputs {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.input-group {
+    width: 100%;
+}
+
+.input-group-text {
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.change-btn {
+    background-color: #28a745;
+    color: #ffffff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    align-items: center;
+}
+
+.change-btn:hover {
+    background-color: #218838;
+}
+
+.row h2 {
+    margin-top: 20px;
+}
+
+.table-one,
+.table-two,
+.table-three {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.table-one h4,
+.table-two h4,
+.table-three h4 {
+    color: #007bff;
+}
+
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.delete-btn {
+    background-color: #dc3545;
+    color: #ffffff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px 0;
+}
+
+.delete-btn:hover {
+    background-color: #c82333;
+}
